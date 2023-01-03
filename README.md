@@ -4,4 +4,4 @@
 
 ## Interviews
 
-1. [Roger Saner](//github.com/schalkventer/sourcemaps.org/blob/main/001-roger-saner.md)
+1. [Roger Saner](https://github.com/schalkventer/sourcemaps.org/tree/main/001-roger-saner)
