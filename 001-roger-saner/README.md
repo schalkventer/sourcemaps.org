@@ -1,6 +1,6 @@
 # Roger Saner
 
-https://twitter.com/rogersaner
-https://medium.com/@rogersaner
-
 Interview: 
+
+- Twitter: https://twitter.com/rogersaner
+- Medium: https://medium.com/@rogersaner
